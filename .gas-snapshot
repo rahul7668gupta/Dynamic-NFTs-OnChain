@@ -1,0 +1,3 @@
+BasicNftTest:testBasicNftNameIsCorrect() (gas: 9046)
+BasicNftTest:testBasicNftSymbolIsCorrect() (gas: 9047)
+BasicNftTest:testUserCanMintNft() (gas: 176386)
